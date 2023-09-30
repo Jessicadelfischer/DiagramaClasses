@@ -4,7 +4,9 @@
 ![pedido](pedido.png)
 #### 2. Implemente e teste o modelo de classes com base no seguinte imagem:
 ![elemento](elemento.png)
-#### 3. Identifique os atributos e comportamentos que são comuns entre os 3 animais e encapsule-os na superclasse Animal. Crie pelo menos 1 comportamento diferente para cada animal. 
+#### 3.Crie o diagrama de classe da atividade 3 da lista de atividades sobre Pilares POO e Composição.
+
+- Identifique os atributos e comportamentos que são comuns entre os 3 animais e encapsule-os na superclasse Animal. Crie pelo menos 1 comportamento diferente para cada animal. 
 #### 4. Chegou a hora de mostrar o quanto você sabe colocar no papel (ou code) o que pensa. Você deve pensar, modelar, programar e testar um modelo de classes baseado em uma situação da vida real. Ex: Locação de livros, restaurante...
 #### 5. Corrija os erros do codigo abaixo:    
     interface Desconto {
